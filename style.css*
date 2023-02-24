@@ -21,3 +21,9 @@ p1 {color : white;
 li {
     margin-bottom: 0.5rem;
 }
+@media (max-width: 800px) {
+  p {
+    background: black;
+    color: yellow;
+  }
+}
