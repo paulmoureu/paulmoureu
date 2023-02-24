@@ -22,8 +22,4 @@ li {
     margin-bottom: 0.5rem;
 }
 @media (max-width: 800px) {
-  p {
-    background: black;
-    color: yellow;
-  }
-}
+ 
