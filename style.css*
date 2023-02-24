@@ -21,5 +21,10 @@ p1 {color : white;
 li {
     margin-bottom: 0.5rem;
 }
-@media (max-width: 800px) {
- 
+@media all and (min-width: 1024px) and (max-width: 1280px)
+img { 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 800px;
+}
