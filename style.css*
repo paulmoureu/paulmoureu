@@ -1,7 +1,8 @@
 h1 { text-align: center; 
      text-decoration: underline;
-	 color: navy;
+	 color: white;
 	 font-family: cursive;
+	 font-size: 500%;
 	 }
 h4 { text-align: right; 
      color: grey;
@@ -18,13 +19,9 @@ p1 {color : white;
      font-family: cursive;
 }
 
-li {
+a {
     margin-bottom: 0.5rem;
+	font-size: 100%
 }
-@media all and (min-width: 1024px) and (max-width: 1280px)
-img { 
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 800px;
-}
+
+ 
