@@ -2,8 +2,8 @@ h1 { text-align: center;
      text-decoration: underline;
 	 color: white;
 	 font-family: cursive;
-	 font-size: 500%;
-	 }
+	 font-size: 500%
+}
 h4 { text-align: right; 
      color: grey;
 	 font-family: cursive;
